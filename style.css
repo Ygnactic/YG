@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  text-align: center;
+  padding-top: 50px;
+}
+h1 {
+  color: #333;
+}
+iframe {
+  border: none;
+  margin-top: 20px;
+}
